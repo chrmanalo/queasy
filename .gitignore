@@ -1,1 +1,3 @@
 __pycache__/
+queasy/docs/*
+queasy/data/aws_sysops_admin/*
