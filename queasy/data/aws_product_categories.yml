@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Categories are extracted from the following:
 #   AWS Cloud Products - https://aws.amazon.com/products/
 #   AWS Knowledge Center - https://aws.amazon.com/premiumsupport/knowledge-center/
@@ -29,26 +28,3 @@
 - "Satellite"
 - "Security, Identity, & Compliance"
 - "Storage"
-=======
-- "AWS Analytics"
-- "AWS Application Integration"
-- "AWS Blockchain"
-- "AWS Cloud Financial Management"
-- "AWS Compute"
-- "AWS Containers"
-- "AWS Database"
-- "AWS Developer Tools"
-- "AWS End User Computing"
-- "AWS Front-End Web & Mobile"
-- "AWS Internet of Things"
-- "AWS Machine Learning"
-- "AWS Management & Governance"
-- "AWS Media Services"
-- "AWS Migration & Transfer"
-- "AWS Networking & Content Delivery"
-- "AWS Quantum Technologies"
-- "AWS Robotics"
-- "AWS Satellite"
-- "AWS Security, Identity, & Compliance"
-- "AWS Storage"
->>>>>>> 4c1e3581d25be8a7f05ad3b3b42db076f995c842
