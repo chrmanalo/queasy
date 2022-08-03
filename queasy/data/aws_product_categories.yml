@@ -1,3 +1,35 @@
+<<<<<<< HEAD
+# Categories are extracted from the following:
+#   AWS Cloud Products - https://aws.amazon.com/products/
+#   AWS Knowledge Center - https://aws.amazon.com/premiumsupport/knowledge-center/
+# 
+# AWS Products can belong to one or more categories.
+# E.g. Amazon Managed Blockchain belongs to these categories: "Application Integration" and "Blockchain".
+
+- "Analytics"
+- "Application Integration"
+- "Blockchain"
+- "Business Applications"
+- "Cloud Financial Management"
+- "Compute"
+- "Containers"
+- "Customer Management"
+- "Database"
+- "Developer Tools"
+- "End User Computing"
+- "Front-End Web & Mobile"
+- "Internet of Things"
+- "Machine Learning"
+- "Management & Governance"
+- "Media Services"
+- "Migration & Transfer"
+- "Networking & Content Delivery"
+- "Quantum Technologies"
+- "Robotics"
+- "Satellite"
+- "Security, Identity, & Compliance"
+- "Storage"
+=======
 - "AWS Analytics"
 - "AWS Application Integration"
 - "AWS Blockchain"
@@ -19,3 +51,4 @@
 - "AWS Satellite"
 - "AWS Security, Identity, & Compliance"
 - "AWS Storage"
+>>>>>>> 4c1e3581d25be8a7f05ad3b3b42db076f995c842
