@@ -3,7 +3,7 @@ import functools
 SEPARATOR = 16*'####'
 
 def trace(func):
-    """Decorates a function to show its trace."""
+    """Decorates a function to show its trace. Copied from https://www.markaicode.com/en/easy-trace-code-in-python/"""
 
     @functools.wraps(func)
     def tracefunc_closure(*args, **kwargs):

@@ -1,0 +1,30 @@
+- name: "CloudWatch"
+  domain: 1
+  categories: 
+  - 14
+- name: "CloudTrail"
+  domain: 1
+  categories:
+  - 14
+  - 21
+- name: "Amazon Simple Notification Service (SNS)"
+  domain: 1
+  categories:
+  - 1
+- name: "Service Quotas"
+  domain: 1
+  categories:
+- name: "AWS Health"
+- name: "Amazon EventBridge"
+- name: "AWS Systems Manager"
+- name: "AWS Config"
+
+- name: "AWS Auto Scaling"
+- name: "Amazon RDS"
+- name: "Amazon Aurora"
+- name: "Elastic Load Balancing"
+- name: "Amazon FSx"
+- name: "Amazon Relational Database Service (RDS)"
+- name: "Amazon Elastic File System (EFS)"
+- name: "Route 53"
+- name: "AWS Backup"
